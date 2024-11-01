@@ -1,3 +1,8 @@
+# November 5th 2024
+## v0.3.3
+### Fixed
+- Mod API Version Variable
+
 # October 31st 2024
 ## v0.3.2
 ### Added

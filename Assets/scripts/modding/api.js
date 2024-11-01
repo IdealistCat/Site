@@ -1,6 +1,6 @@
 import { MOD_DATA } from "./data.js";
 
-export const MOD_API_VERSION = "0.2";
+export const MOD_API_VERSION = "0.2.1";
 var MOD_CONSOLE = [];
 
 /*
